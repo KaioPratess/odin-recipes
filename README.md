@@ -1,4 +1,4 @@
-<h1>odin-recipes</h1>
+<h1><a href="https://kaiopratess.github.io/odin-recipes/">odin-recipes</a></h1>
   <h2>What this project is about?</h2>
     <p>This project is a recipes website. With a home page with links to sub pages where you'll encounter the recipes.</p>
   <h2>Skills<h2>
