@@ -1,6 +1,6 @@
 <h1>odin-recipes</h1>
   <h2>What this project is about?</h2>
-    <p>This project is a recipes website. With a home page with links to sub pages where you'll encounter the recipes</p>
+    <p>This project is a recipes website. With a home page with links to sub pages where you'll encounter the recipes.</p>
   <h2>Skills<h2>
     <h3>HTML5 Elements/Tags/Semantic</h3>
       <ul>
